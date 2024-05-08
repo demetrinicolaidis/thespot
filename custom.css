@@ -1,0 +1,105 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+body	{
+	color: white;
+}
+
+
+
+a:link	{
+	color: #FEADE8;
+	text-decoration: none;
+}
+
+a:visited	{
+	color: #FEADE8;
+	text-decoration: none;
+}
+
+a:hover	{
+	color: #CC00CC;
+	text-decoration: none;
+}
+
+a:active	{
+	text-decoration: none;
+}
+
+
+h1	{
+	color: #FEADE8;
+	font-family: "amador", "arial", sans-serif;
+	font-size: 2em;
+}
+
+h2	{
+
+}
+
+
+
+
+
+#access	{
+	background-color:#FEADE8;
+	color: #000;
+}
+
+#join	{
+	background-color:#FEADE8;
+	color: #000;
+}
+
+#topleft	{
+	color: #FEADE8;
+}
+
+#store	{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+#online	{
+	padding-top: 25px;
+}
+
+
+.amador	{
+	font-family: "amador", "arial", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
